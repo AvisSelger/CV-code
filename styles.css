@@ -1,0 +1,272 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  /* font-family: 'Raleway', sans-serif; */
+  background: #E5E5E5;
+
+}
+
+/* mein style */
+.mein {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  margin: 0px auto;
+
+}
+
+/* mein_cintent */
+
+.mein-content {
+  background: #FFFFFF;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  padding: 105px 90px;
+}
+/* about style */
+
+.about {
+  margin-bottom: 39px;
+}
+
+.about-position {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+}
+
+.about-name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000000;
+  margin-bottom: 25px;
+
+}
+
+.about-description {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  width: 390px;
+
+}
+
+
+/* project style */
+.projects {
+  margin-bottom: 50px;
+}
+
+  /* margin: 100px 90px 300px 60px: */
+
+  /* margin: 50px; */
+
+  /* margin: 100px 50px; */
+
+
+/* projects styles */
+
+.poject-bracket {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.pojects-list{
+  padding: 0;
+  margin-left: 15px;
+}
+
+.poject-item {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.project, .project-link{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.project-link {
+  margin-left: 10px;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.work-list {
+  padding: 0;
+  margin-left: 21px;
+}
+
+.title {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin-bottom: 11px;
+  
+}
+
+/* work style */
+
+.work-list-item {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.work-position {
+  margin-bottom: 10px;
+}
+
+.line {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #000000;
+}
+
+.work-position,
+.organization {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+}
+
+/* Education_style */
+
+.organization {
+  color: #ff8000;
+}
+
+.period {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #A8A8A8;
+  margin-bottom: 8px;
+}
+
+
+
+
+/* sidebar style */
+
+.sidebar {
+  background: #51565C;
+  padding-top: 40px;
+  width: 370px;
+
+}
+
+/* My photo */
+
+.myphoto {
+  width: 370px;
+  height: 445px;
+  margin-bottom: 50px;
+  
+}
+
+.skille-title {
+  color: #FFFFFF;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 40px;
+  margin-bottom: 40px;
+  margin-top: 50px;
+
+}
+
+.sidebar-tecst {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+}
+
+/* Contacts */
+
+.sidebar-title { 
+  color: #FFFFFF;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 40px;
+  margin-bottom: 10px;
+
+}
+
+.skille-title {
+  color: #FFFFFF;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 40px;
+  margin-bottom: 40px;
+  margin-top: 50px;
+}
+
+.contacts {
+  margin-bottom: 50px;
+  
+}
+
+.contact-type {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #FFFFFF;
+  margin-right: 4px;
+  
+}
+
+.contact-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ff8000a8;
+
+}
+
+.skille-list {
+  color: #ff8000;
+  padding: 0;
+  margin-left: 21px;
+}
+
+.skille-point {
+  color: #FFFFFF;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 24px;
+}
